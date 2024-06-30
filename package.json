@@ -1,0 +1,27 @@
+{
+  "name": "log-scribe",
+  "version": "1.0.3",
+  "description": "enhanced logging by including the error message, file name, line number, and a snippet of code surrounding the log call.",
+  "main": "logScribe.js",
+  "scripts": {
+    "demo": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-tanner/log-scribe.git"
+  },
+  "keywords": [
+    "syntax",
+    "javascript",
+    "json",
+    "terminal",
+    "console",
+    "print",
+    "output"
+  ],
+  "author": "Matthew Tanner <github@matthewtanner.com> (matthewtanner.com)",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "cardinal": "^2.1.1"
+  }
+}
